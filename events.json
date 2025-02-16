@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Toronto Film Projection",
+    "date": "2025-02-17",
+    "time": "10:00 PM",
+    "location": "Roy Thomson Hall",
+    "category": "Film",
+    "description": "Join the Film Projection for a series of films from around the world!"
+  },
+  {
+    "id": 2,
+    "name": "Jazz Competition Event",
+    "date": "2025-02-17",
+    "time": "7:00 PM",
+    "location": "Toronto Waterfront",
+    "category": "Music",
+    "description": "Enjoy world-class jazz performances along the beautiful Toronto waterfront."
+  },
+  {
+    "id": 3,
+    "name": "Baking with Experts",
+    "date": "2025-02-17",
+    "time": "12:00 PM",
+    "location": "Yonge Street",
+    "category": "Community",
+    "description": "Create pastries with baking experts!"
+  }
+]
